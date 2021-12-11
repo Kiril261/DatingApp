@@ -1,0 +1,42 @@
+/* The alert message box */
+.alert {
+    padding: 10px;
+    color: white;
+    margin-bottom: 10px;
+  }
+  
+  /* The close button */
+  .closebtn {
+    margin-left: 20px;
+    color: white;
+    font-weight: bold;
+    float: right;
+    font-size: 22px;
+    line-height: 23px;
+    cursor: pointer;
+    transition: 0.3s;
+  }
+  
+  /* When moving the mouse over the close button */
+  .closebtn:hover {
+    color: black;
+  }
+
+.img-thumbnail {
+    margin: 25px;
+    width: 85%;
+    height: 85%;
+}
+
+.card-body {
+    padding: 0 25px;
+}
+
+.card-footer {
+    padding: 10px 15px;
+    border-top: none;
+}
+
+.form-control {
+    background-color: whitesmoke;
+}
